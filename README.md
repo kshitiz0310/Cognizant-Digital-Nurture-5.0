@@ -1,40 +1,38 @@
 # Cognizant Digital Nurture 5.0
 
-Repository containing my training progress, assignments, and hands-on work completed as part of **Cognizant's Digital Nurture 5.0** program.
+This repository documents my learning progress, assignments, and hands-on implementations completed as part of **Cognizant's Digital Nurture 5.0** training program.
 
-## 📖 About the Program
+## Overview
 
-Digital Nurture is Cognizant's structured learning initiative designed to build strong technical foundations in new associates through a combination of **Upskilling** (core technology training) and **Deepskilling** (advanced, role-specific specialization).
+Digital Nurture is Cognizant's structured associate training initiative, designed to build strong technical foundations through two phases:
 
-This repository serves as a record of the exercises, mini-projects, and concepts covered throughout the program.
+- **Upskilling** — Core technology training covering programming fundamentals.
+- **Deepskilling** — Advanced, specialization-focused training aligned with the assigned technology track.
 
-## 📂 Repository Structure
+This repository is maintained to track weekly progress and to serve as a reference record of the concepts and exercises completed during the program.
+
+## Repository Structure
 
 ```
 Cognizant-Digital-Nurture-5.0/
 │
-├── Upskilling/       # Core technology fundamentals (Java)
-│   └── ...
+├── Upskilling/       Core programming fundamentals (Java)
 │
-└── Deepskilling/     # Advanced / specialization track (Week-wise progress)
-    └── ...
+└── Deepskilling/     Advanced training modules, organized week-wise
 ```
 
-- **Upskilling** — Covers foundational programming concepts and core Java training modules.
-- **Deepskilling** — Contains week-wise progress (e.g. Week 4) with more advanced topics and assignments.
-
-## 🛠️ Tech Stack
+## Technology Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-## 🎯 Purpose
+## Objectives
 
-This repository is maintained for:
-- Tracking daily/weekly learning progress during the training program
-- Practicing and reinforcing concepts through hands-on exercises
-- Maintaining a transparent record of work for review and evaluation
+- Track and document weekly learning progress throughout the training program
+- Reinforce core and advanced concepts through practical, hands-on exercises
+- Maintain a clear, well-organized record of work for review and evaluation
 
-## 🧑‍💻 Author
+## Author
 
 **Kshitiz Tiwari**
 - GitHub: [@kshitiz0310](https://github.com/kshitiz0310)
@@ -42,4 +40,4 @@ This repository is maintained for:
 
 ---
 
-*This repository is part of an active training program and is updated regularly as new modules are completed.*
+*This repository is actively maintained and updated as new training modules are completed.*
